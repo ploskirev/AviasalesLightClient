@@ -2,6 +2,8 @@
 
 Light front-end client for aviasales backend
 
+![Скриншот приложения Aviasales light client](https://plsk.site/img/aviasales.jpg)
+
 ## Project setup
 ```
 npm install
